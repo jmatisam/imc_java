@@ -1,6 +1,8 @@
 # Read Me First
 The following was discovered as part of building this project:
 
+* [Oficial Guide of Proyect](https://www.canva.com/design/DAGGQlGGkYI/zdlYhOmrLUHgJAoMRw5GdA/view?utm_content=DAGGQlGGkYI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 * The original package name 'jmat_f5bosco.imc-app' is invalid and this project uses 'jmat_f5bosco.imc_app' instead.
 
 * This exercise focuses on calculating the Body Mass Index (BMI) in Java as part of a Java lesson within the DeVops F5-don Bosco project."
